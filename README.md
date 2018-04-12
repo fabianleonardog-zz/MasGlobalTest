@@ -1,2 +1,0 @@
-# MasGlobalTest
-MasGlobal code test
