@@ -1,0 +1,60 @@
+﻿@model MasGlobalTest.Web.Models.HomeViewModel
+
+<h2>Employee search</h2>
+<br />
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <label>Id:</label>
+        @Html.EditorFor(model => model.id)
+    </div>
+
+    <div class="form-group">
+        <div class="form-group">
+            <input type="submit" value="Get Employess" class="btn btn-xs btn-primary" />
+        </div>
+    </div>
+
+    if (Model.EmployeeList != null && Model.EmployeeList.Count > 0)
+    {
+        <div class="table-responsive">
+            <table class="table table-bordered  table-striped">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>
+                            <label>Id</label>
+                        </th>
+                        <th>
+                            <label>Name</label>
+                        </th>
+                        <th>
+                            <label>ContractTypeName</label>
+                        </th>
+                        <th>
+                            <label>RoleName</label>
+                        </th>
+                        <th>
+                            <label>RoleDescription</label>
+                        </th>
+                        <th>
+                            <label>Salary</label>
+                        </th>
+                    </tr>
+                </thead>
+                @foreach (var employee in Model.EmployeeList)
+                {
+                    <tbody>
+                        <tr>
+                            <td>@Html.DisplayFor(employeeItem => employee.Id)</td>
+                            <td>@Html.DisplayFor(employeeItem => employee.Name)</td>
+                            <td>@Html.DisplayFor(employeeItem => employee.ContractTypeName)</td>
+                            <td>@Html.DisplayFor(employeeItem => employee.RoleName)</td>
+                            <td>@Html.DisplayFor(employeeItem => employee.RoleDescription)</td>
+                            <td>@Html.DisplayFor(employeeItem => employee.Salary)</td>
+                        </tr>
+                    </tbody>
+                }
+            </table>
+            </div>
+    }
+}

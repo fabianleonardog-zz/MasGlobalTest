@@ -1,0 +1,14 @@
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\bin\Debug\MasGlobalTest.Business.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\bin\Debug\MasGlobalTest.Business.pdb
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\bin\Debug\MasGlobalTest.Data.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\bin\Debug\MasGlobalTest.Models.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\bin\Debug\MasGlobalTest.RestServiceClient.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\bin\Debug\RestSharp.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\bin\Debug\System.ValueTuple.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\bin\Debug\MasGlobalTest.Data.pdb
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\bin\Debug\MasGlobalTest.Models.pdb
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\bin\Debug\MasGlobalTest.RestServiceClient.pdb
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\bin\Debug\System.ValueTuple.xml
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\obj\Debug\MasGlobalTest.Business.csprojResolveAssemblyReference.cache
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\obj\Debug\MasGlobalTest.Business.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Business\obj\Debug\MasGlobalTest.Business.pdb

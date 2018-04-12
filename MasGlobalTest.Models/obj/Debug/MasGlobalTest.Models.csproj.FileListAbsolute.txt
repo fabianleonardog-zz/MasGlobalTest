@@ -1,0 +1,4 @@
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Models\bin\Debug\MasGlobalTest.Models.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Models\bin\Debug\MasGlobalTest.Models.pdb
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Models\obj\Debug\MasGlobalTest.Models.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.Models\obj\Debug\MasGlobalTest.Models.pdb

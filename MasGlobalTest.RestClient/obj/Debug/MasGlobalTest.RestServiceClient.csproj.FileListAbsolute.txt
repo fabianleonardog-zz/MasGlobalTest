@@ -1,0 +1,7 @@
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.RestClient\bin\Debug\MasGlobalTest.RestServiceClient.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.RestClient\bin\Debug\MasGlobalTest.RestServiceClient.pdb
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.RestClient\bin\Debug\RestSharp.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.RestClient\bin\Debug\System.ValueTuple.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.RestClient\bin\Debug\System.ValueTuple.xml
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.RestClient\obj\Debug\MasGlobalTest.RestServiceClient.dll
+C:\Dev\Study\MasGlobal\MasGlobalTest\MasGlobalTest.RestClient\obj\Debug\MasGlobalTest.RestServiceClient.pdb
